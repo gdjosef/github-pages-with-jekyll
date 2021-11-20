@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "I'll delete this later"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Not like anyone looks at and bothers to look at my GitHub repos.
