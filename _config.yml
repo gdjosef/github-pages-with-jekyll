@@ -10,4 +10,4 @@ github_username:  gdjosef # DO NOT include the @ character, or else the build wi
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: slate
+remote_theme: pages-themes/slate@v0.2.0
